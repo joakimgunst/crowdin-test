@@ -1,9 +1,14 @@
 {
   "common": {
     "yes": "Kyllä",
-    "no": "Ei"
+    "no": "Ei",
+    "cancel": "Cancel"
   },
   "home": {
     "welcomeMessage": "Tervetuloa, {name}!"
+  },
+  "products": {
+    "products": "Tuotteet",
+    "productCount": "{count, plural, zero {No products} one {# product} other {# products}}"
   }
 }
