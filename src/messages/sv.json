@@ -1,14 +1,14 @@
 {
   "common": {
-    "yes": "Yes",
-    "no": "No",
-    "cancel": "Cancel"
+    "yes": "",
+    "no": "",
+    "cancel": ""
   },
   "home": {
-    "welcomeMessage": "Welcome, {name}!"
+    "welcomeMessage": ""
   },
   "products": {
-    "products": "Products",
-    "productCount": "{count, plural, zero {No products} one {# product} other {# products}}"
+    "products": "",
+    "productCount": ""
   }
 }
