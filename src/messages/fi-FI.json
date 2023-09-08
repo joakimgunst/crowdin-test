@@ -8,7 +8,7 @@
     "welcomeMessage": "Welcome, {name}!"
   },
   "products": {
-    "products": "Products",
+    "products": "Tuotteet",
     "productCount": "{count, plural, zero {No products} one {# product} other {# products}}"
   }
 }
