@@ -1,0 +1,9 @@
+{
+  "common": {
+    "yes": "Kyllä",
+    "no": "Ei"
+  },
+  "home": {
+    "welcomeMessage": "Tervetuloa, {name}!"
+  }
+}
