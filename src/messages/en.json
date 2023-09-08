@@ -2,7 +2,8 @@
   "common": {
     "yes": "Yes",
     "no": "No",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "save": "Save"
   },
   "home": {
     "welcomeMessage": "Welcome, {name}!"
