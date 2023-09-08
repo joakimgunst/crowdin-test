@@ -2,7 +2,8 @@
   "common": {
     "yes": "Kyllä",
     "no": "Ei",
-    "cancel": ""
+    "cancel": "",
+    "save": ""
   },
   "home": {
     "welcomeMessage": "Tervetuloa, {name}!"
