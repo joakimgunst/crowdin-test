@@ -1,0 +1,14 @@
+{
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel"
+  },
+  "home": {
+    "welcomeMessage": "Welcome, {name}!"
+  },
+  "products": {
+    "products": "Products",
+    "productCount": "{count, plural, zero {No products} one {# product} other {# products}}"
+  }
+}
