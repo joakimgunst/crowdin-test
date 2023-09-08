@@ -2,7 +2,8 @@
   "common": {
     "yes": "",
     "no": "",
-    "cancel": ""
+    "cancel": "",
+    "save": ""
   },
   "home": {
     "welcomeMessage": ""
