@@ -1,5 +1,5 @@
 {
-  "name": "next-intl-test",
+  "name": "crowdin-test",
   "version": "0.1.0",
   "packageManager": "pnpm@8.7.1",
   "private": true,
