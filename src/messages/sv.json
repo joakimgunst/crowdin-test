@@ -1,1 +1,15 @@
-{}
+{
+  "common": {
+    "yes": "Jo",
+    "no": "Nej",
+    "cancel": "",
+    "save": ""
+  },
+  "home": {
+    "welcomeMessage": ""
+  },
+  "products": {
+    "products": "Produkter",
+    "productCount": ""
+  }
+}
