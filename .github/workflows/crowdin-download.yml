@@ -1,8 +1,6 @@
-name: Crowdin
+name: Crowdin Download
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -10,14 +8,14 @@ permissions:
   pull-requests: write
 
 jobs:
-  synchronize:
+  download:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: crowdin/github-action@b0270b7fb2079c9421b32e30c0d88d9c06d59330
+      - uses: crowdin/github-action@v1
         with:
-          upload_sources: true
-          upload_translations: true
+          upload_sources: false
+          upload_translations: false
           download_translations: true
           localization_branch_name: l10n_crowdin_translations
           create_pull_request: true
