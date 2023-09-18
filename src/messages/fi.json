@@ -1,9 +1,16 @@
 {
   "common": {
     "yes": "Kyllä",
-    "no": "Ei"
+    "no": "Ei",
+    "cancel": "",
+    "save": "Tallenna",
+    "error": "Virhe"
   },
   "home": {
     "welcomeMessage": "Tervetuloa, {name}!"
+  },
+  "products": {
+    "products": "",
+    "productCount": ""
   }
 }
